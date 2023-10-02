@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.tools.DocumentationTool.Location"/>
+    <fullyQualifiedTypeName name="chapter2.agent_AB.DynamicAction"/>
+    <fullyQualifiedTypeName name="chapter2.agent_AB.NoOpAction"/>
+    <fullyQualifiedTypeName name="chapter2.agent_AB.Environment"/>
+    <fullyQualifiedTypeName name="chapter2.agent_AB.Environment.LocationState"/>
+    <fullyQualifiedTypeName name="chapter2.agent_ABCD.Environment.LocationState"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="agent_ABCD.Environment"/>
+    <fullyQualifiedTypeName name="agent_ABCD.Environment.LocationState"/>
+    <fullyQualifiedTypeName name="agent_ABCD.NoOpAction"/>
+</qualifiedTypeNameHistroy>
