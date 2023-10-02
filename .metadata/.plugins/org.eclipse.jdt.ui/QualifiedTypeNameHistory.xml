@@ -10,4 +10,5 @@
     <fullyQualifiedTypeName name="agent_ABCD.Environment"/>
     <fullyQualifiedTypeName name="agent_ABCD.Environment.LocationState"/>
     <fullyQualifiedTypeName name="agent_ABCD.NoOpAction"/>
+    <fullyQualifiedTypeName name="agent_AB.Environment"/>
 </qualifiedTypeNameHistroy>
