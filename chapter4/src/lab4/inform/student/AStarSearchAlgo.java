@@ -28,7 +28,7 @@ public class AStarSearchAlgo implements IInformedSearchAlgo {
 	        child.setG(newG);	        
 	        double newF = newG + child.getH();
 
-	        if(frontier.contains(child) && child.getF() < newG + child.getH())
+	        if(frontier.contains(child) && child.getF() > newG + child.getH())
 	        {
 	        	child.setParent(current);
 	        	child.setF(newF);
